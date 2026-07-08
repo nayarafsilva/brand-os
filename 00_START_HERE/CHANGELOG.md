@@ -78,6 +78,12 @@ Affected files: START_HERE.md, NON_NEGOTIABLE_RULES.md, MASTER_INDEX.md, CHANGEL
 Reason: Establish repository navigation, standards, indexing, and centralised change control before building the foundation module
 Status: Approved
 
+Date: Initial build
+Change: Created 01_FOUNDATION folder
+Affected files: Brand_Philosophy.md, Brand_Positioning.md, Brand_Identity.md, Audience_Psychology.md, Voice_Communication_System.md, Editorial_Principles.md, Knowledge_Boundaries.md
+Reason: Establish the strategic foundation for Nayara's personal brand before building the creation, review, examples, and outputs modules
+Status: Approved
+
 Edge cases:
 
 Small typo fixes can be grouped.
@@ -161,6 +167,8 @@ Drafts do not enter repository version control.
 • START_HERE.md
 • NON_NEGOTIABLE_RULES.md
 • MASTER_INDEX.md
+• 01_FOUNDATION/Brand_Philosophy.md
+• 01_FOUNDATION/Brand_Positioning.md
 • 03_REVIEW_SYSTEM/Approval_Checklist.md
 • 99_ARCHIVE/Build_Notes.md
 
