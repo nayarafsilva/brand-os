@@ -84,6 +84,12 @@ Affected files: Brand_Philosophy.md, Brand_Positioning.md, Brand_Identity.md, Au
 Reason: Establish the strategic foundation for Nayara's personal brand before building the creation, review, examples, and outputs modules
 Status: Approved
 
+Date: Initial build
+Change: Created 02_CREATION_SYSTEM folder
+Affected files: Vocabulary_Library.md, Hook_Library.md, Re_Hook_Library.md, Storytelling_System.md, Post_Structures.md, CTA_Library.md, Creation_Workflow.md, Creation_Checklist.md
+Reason: Establish the approved content creation system that translates the Foundation module into repeatable content decisions, structures, hooks, stories, CTAs, and creation checks
+Status: Approved
+
 Edge cases:
 
 Small typo fixes can be grouped.
@@ -169,6 +175,8 @@ Drafts do not enter repository version control.
 • MASTER_INDEX.md
 • 01_FOUNDATION/Brand_Philosophy.md
 • 01_FOUNDATION/Brand_Positioning.md
+• 02_CREATION_SYSTEM/Creation_Workflow.md
+• 02_CREATION_SYSTEM/Creation_Checklist.md
 • 03_REVIEW_SYSTEM/Approval_Checklist.md
 • 99_ARCHIVE/Build_Notes.md
 
