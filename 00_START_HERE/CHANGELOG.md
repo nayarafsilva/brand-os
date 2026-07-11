@@ -108,6 +108,12 @@ Affected files: Templates/Template_Index.md, Approved_Posts/Approved_Posts_Index
 Reason: Establish approved output storage for reusable templates, finished posts, carousel assets, and frameworks while keeping drafts out of the repository
 Status: Approved
 
+Date: Initial build
+Change: Created 99_ARCHIVE folder
+Affected files: Build_Notes.md, Previous_Versions/Previous_Versions_Index.md
+Reason: Establish archive rules, historical build context, and previous version handling without allowing archived material to override approved active files
+Status: Approved
+
 Edge cases:
 
 Small typo fixes can be grouped.
@@ -200,6 +206,7 @@ Drafts do not enter repository version control.
 • 05_OUTPUTS/Templates/Template_Index.md
 • 05_OUTPUTS/Approved_Posts/Approved_Posts_Index.md
 • 99_ARCHIVE/Build_Notes.md
+• 99_ARCHIVE/Previous_Versions/Previous_Versions_Index.md
 
 # Quality Checklist
 
