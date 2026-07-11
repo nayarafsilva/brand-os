@@ -16,16 +16,19 @@ Dependencies:
 • Brand_Positioning.md
 • Voice_Communication_System.md
 • Vocabulary_Library.md
+• LinkedIn_Content_Cheat_Sheet.md
 
 ---
 
 # Purpose
 
-This document defines how to score Brand OS writing before approval. It ensures that writing sounds like Nayara, follows the right format, avoids restricted wording, and protects customer trust.
+This document defines how to score Brand OS writing before approval. It ensures that writing sounds like Nayara, follows the right format, avoids restricted wording, protects customer trust, and meets LinkedIn authority standards when used for public content.
 
 # How this document connects to the rest of the repository
 
 Content_Scorecard.md supports Review_Loop.md and Approval_Checklist.md. It should be used after drafting and rewriting, but before approving public content, customer messages, internal notes, or repository files.
+
+For LinkedIn posts, LinkedIn_Content_Cheat_Sheet.md must be checked before scoring.
 
 # Core Principles
 
@@ -36,6 +39,7 @@ Content_Scorecard.md supports Review_Loop.md and Approval_Checklist.md. It shoul
 • Clarity matters more than cleverness.
 • Trust matters more than strong unsupported claims.
 • Restricted wording blocks approval.
+• LinkedIn posts must build authority through useful thinking, not noise.
 
 # Decision Framework
 
@@ -51,8 +55,12 @@ Score writing across these categories:
 8. Restricted wording.
 9. Strategic alignment.
 10. Mobile readability.
+11. LinkedIn audience fit when relevant.
+12. LinkedIn structure fit when relevant.
 
 A piece of writing should not be approved if it fails voice fit, evidence safety, restricted wording, or customer context when customer context is required.
+
+A LinkedIn post should not be approved if it lacks a business problem, tension, perspective shift, evidence, practical implication, or one CTA.
 
 # Detailed Rules
 
@@ -84,7 +92,7 @@ Is there one clear next step, or is the CTA intentionally omitted?
 
 Evidence safety:
 
-Are facts, numbers, links, customer details, and claims supported, softened, or removed?
+Are facts, numbers, links, customer details, and claims supported, softened, labelled, or removed?
 
 Restricted wording:
 
@@ -97,6 +105,14 @@ Does the output support Nayara's Brand OS positioning or the customer success ob
 Mobile readability:
 
 Are paragraphs short and easy to scan?
+
+LinkedIn audience fit:
+
+Does the post speak to CIOs, CTOs, IT Directors, Heads of Engineering, Heads of Infrastructure, Heads of Security, Enterprise Architects, L&D Leaders, HR Leaders, Technology Managers, Team Leads, Future Leaders, or Technology Professionals?
+
+LinkedIn structure fit:
+
+Does the post include hook, problem, common solution, challenge assumption, unexpected insight, evidence, outcome, broader lesson, and CTA when that full structure is appropriate?
 
 Scoring rules:
 
@@ -112,7 +128,13 @@ For grammar checks, do not score length or structure heavily if the user asked f
 
 For internal messages, prioritise action clarity over polish.
 
-For LinkedIn, prioritise one idea, hook strength, and useful reader takeaway.
+For LinkedIn, prioritise one idea, primary or secondary audience fit, content pillar fit, hook strength, evidence safety, practical implication, and reader discussion value.
+
+A LinkedIn post should pass the success test:
+
+• I had not considered it that way.
+• We might have this problem.
+• We should discuss this internally.
 
 Edge cases:
 
@@ -123,6 +145,8 @@ A personal post can score lower on commercial specificity if it supports brand i
 A repository file must score strongly on structure and standard compliance.
 
 If restricted wording is present only to discuss the restricted list, it does not fail automatically.
+
+If a LinkedIn post uses a customer story, evidence safety and confidentiality must pass before structure is scored.
 
 # Good Examples
 
@@ -136,11 +160,11 @@ The score identifies the real weakness.
 
 Good example:
 
-A low adoption message is rewritten because it sounds like failure rather than activation.
+A LinkedIn post has a strong hook but no practical implication. It is held back until the reader takeaway is clear.
 
 Why this works:
 
-The score protects customer trust.
+It protects authority and prevents shallow posting.
 
 Good example:
 
@@ -162,11 +186,11 @@ Polish hides the wrong framing.
 
 Bad example:
 
-Approving content with restricted AI wording because the point is useful.
+Approving a LinkedIn post because it sounds sharp, even though it has no evidence or safe observation.
 
 Why this fails:
 
-The wording weakens the voice.
+A sharp claim without support weakens trust.
 
 Bad example:
 
@@ -186,6 +210,8 @@ It creates guilt and pressure.
 • Treating hours as value proof.
 • Approving broad CTAs.
 • Rewriting grammar checks too heavily.
+• Approving LinkedIn posts with no business problem.
+• Approving LinkedIn posts with no reader discussion value.
 
 # Anti Patterns
 
@@ -198,6 +224,8 @@ It creates guilt and pressure.
 • Polished but not Nayara.
 • Evidence unsafe claim.
 • Strong hook with weak substance.
+• LinkedIn post with no practical implication.
+• LinkedIn post with no audience fit.
 
 # Cross References
 
@@ -208,6 +236,7 @@ It creates guilt and pressure.
 • Brand_Positioning.md
 • Voice_Communication_System.md
 • Vocabulary_Library.md
+• LinkedIn_Content_Cheat_Sheet.md
 • Knowledge_Boundaries.md
 • Before_After_Rewrites.md
 
@@ -219,6 +248,9 @@ It creates guilt and pressure.
 • Restricted wording is a scoring category.
 • Evidence safety is a blocker category.
 • Customer facing work has customer context as a blocker category.
+• LinkedIn audience fit is included.
+• LinkedIn structure fit is included.
+• LinkedIn success test is included.
 • Grammar check and internal message exceptions are clear.
 • Edge cases are inside Detailed Rules.
 • The document follows the mandatory template.
@@ -228,3 +260,4 @@ It creates guilt and pressure.
 • Add completed scoring examples for real customer messages.
 • Add separate scorecards for LinkedIn posts, emails, decks, and Slack messages.
 • Add a quick review scorecard for grammar checks.
+• Add tested LinkedIn scoring examples once more posts are published.
