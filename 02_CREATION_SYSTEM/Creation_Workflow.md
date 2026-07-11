@@ -18,6 +18,7 @@ Dependencies:
 • Voice_Communication_System.md
 • Vocabulary_Library.md
 • Knowledge_Boundaries.md
+• LinkedIn_Content_Cheat_Sheet.md
 
 ---
 
@@ -31,6 +32,8 @@ It ensures writing is created from approved knowledge, not from a generic prompt
 
 Creation_Workflow.md coordinates the Foundation and Creation System files. It should be used before drafting, correcting, reviewing, or publishing any output that must sound like Nayara.
 
+For LinkedIn content, LinkedIn_Content_Cheat_Sheet.md is now a required execution file.
+
 # Core Principles
 
 • Knowledge comes before prompts.
@@ -40,6 +43,7 @@ Creation_Workflow.md coordinates the Foundation and Creation System files. It sh
 • Format changes the writing mode.
 • Nayara's natural voice should be preserved.
 • Restricted wording must be removed before approval.
+• LinkedIn posts must connect audience, pillar, structure, proof, and CTA.
 • Review comes before approval.
 
 # Decision Framework
@@ -54,6 +58,16 @@ Before creating, ask:
 6. What must be removed so it sounds more like Nayara?
 7. What next step should the reader take?
 8. Which review checks are required?
+
+For LinkedIn, also ask:
+
+1. Which primary or secondary audience is this for?
+2. Which content pillar does this support?
+3. Which of the four core questions does it answer?
+4. What is the business problem?
+5. What is the perspective shift?
+6. What evidence, observation, or safe story supports it?
+7. What should the reader discuss internally after reading?
 
 # Detailed Rules
 
@@ -98,13 +112,21 @@ Customer email sequence:
 
 LinkedIn sequence:
 
-1. Choose one useful idea.
-2. Write a short hook.
-3. Add a re hook before the cut off.
-4. Add context.
-5. Break down the idea.
-6. Add a human observation.
-7. End with a simple CTA.
+1. Read LinkedIn_Content_Cheat_Sheet.md.
+2. Choose one useful idea.
+3. Confirm the audience.
+4. Confirm the content pillar.
+5. Answer one of the four core questions.
+6. Write a hook under 12 words when possible.
+7. Add a re hook before the cut off.
+8. Name the problem.
+9. Show the common solution.
+10. Challenge the assumption.
+11. Add the insight.
+12. Add evidence, a labelled observation, or a safe story.
+13. Name the outcome.
+14. Land the broader lesson.
+15. End with one CTA.
 
 Prompt creation sequence:
 
@@ -133,6 +155,8 @@ Do not include unverified claims, links, numbers, product details, or pricing.
 
 Do not use restricted wording.
 
+For LinkedIn, do not publish without a business problem, tension, perspective shift, evidence, practical implication, and one CTA.
+
 Edge cases:
 
 If the user asks for speed, run the workflow internally in compressed form.
@@ -144,6 +168,8 @@ If the user asks for review, diagnose before rewriting.
 If a message is sensitive, prioritise clarity and calmness.
 
 If the output is repository content, apply the full repository checklist.
+
+If the output is LinkedIn content, apply LinkedIn_Content_Cheat_Sheet.md before drafting.
 
 # Good Examples
 
@@ -177,7 +203,7 @@ Task: LinkedIn post.
 
 Correct process:
 
-Use one idea, short lines, a clear hook, and a useful reader takeaway.
+Use one idea, identify the audience, choose a pillar, answer one core question, add proof safely, and end with one CTA.
 
 Why this works:
 
@@ -203,11 +229,11 @@ It treats perfection as more important than voice.
 
 Bad example:
 
-Giving a long explanation after a grammar correction.
+Writing a LinkedIn post with a strong hook but no evidence, no business problem, and no practical implication.
 
 Why this fails:
 
-It ignores Nayara's output rule.
+It chases attention without building trust.
 
 # Common Mistakes
 
@@ -220,6 +246,7 @@ It ignores Nayara's output rule.
 • Over polishing Nayara's voice.
 • Skipping restricted wording checks.
 • Adding commentary when only corrected text was requested.
+• Treating LinkedIn as only a visibility channel instead of a trust channel.
 
 # Anti Patterns
 
@@ -233,12 +260,15 @@ It ignores Nayara's output rule.
 • Overcorrected messages.
 • Generic AI language.
 • Explanation after simple corrections.
+• LinkedIn content with no business problem.
+• LinkedIn content with no reader decision.
 
 # Cross References
 
 • Voice_Communication_System.md
 • Vocabulary_Library.md
 • Editorial_Principles.md
+• LinkedIn_Content_Cheat_Sheet.md
 • Hook_Library.md
 • Re_Hook_Library.md
 • Storytelling_System.md
@@ -256,6 +286,7 @@ It ignores Nayara's output rule.
 • Review mode is defined.
 • Customer email mode is defined.
 • LinkedIn mode is defined.
+• LinkedIn_Content_Cheat_Sheet.md is required for LinkedIn outputs.
 • Prompt mode is defined.
 • Edge cases are inside Detailed Rules.
 • The document follows the mandatory template.
