@@ -114,6 +114,12 @@ Affected files: Build_Notes.md, Previous_Versions/Previous_Versions_Index.md
 Reason: Establish archive rules, historical build context, and previous version handling without allowing archived material to override approved active files
 Status: Approved
 
+Date: Voice system revision
+Change: Integrated Nayara voice and writing system plus restricted wording database into active Brand OS rules
+Affected files: Voice_Communication_System.md, Vocabulary_Library.md, Editorial_Principles.md, CTA_Library.md, Creation_Workflow.md, Content_Scorecard.md, Before_After_Rewrites.md
+Reason: Make Nayara's customer success voice, writing modes, correction rules, soft CTAs, low adoption framing, renewal framing, British English, restricted wording, and before after examples clear inside the Brand OS
+Status: Approved
+
 Edge cases:
 
 Small typo fixes can be grouped.
@@ -197,16 +203,14 @@ Drafts do not enter repository version control.
 • START_HERE.md
 • NON_NEGOTIABLE_RULES.md
 • MASTER_INDEX.md
-• 01_FOUNDATION/Brand_Philosophy.md
-• 01_FOUNDATION/Brand_Positioning.md
+• 01_FOUNDATION/Voice_Communication_System.md
+• 01_FOUNDATION/Editorial_Principles.md
+• 02_CREATION_SYSTEM/Vocabulary_Library.md
+• 02_CREATION_SYSTEM/CTA_Library.md
 • 02_CREATION_SYSTEM/Creation_Workflow.md
-• 02_CREATION_SYSTEM/Creation_Checklist.md
-• 03_REVIEW_SYSTEM/Review_Loop.md
-• 03_REVIEW_SYSTEM/Approval_Checklist.md
-• 05_OUTPUTS/Templates/Template_Index.md
-• 05_OUTPUTS/Approved_Posts/Approved_Posts_Index.md
+• 03_REVIEW_SYSTEM/Content_Scorecard.md
+• 04_EXAMPLES/Before_After_Rewrites.md
 • 99_ARCHIVE/Build_Notes.md
-• 99_ARCHIVE/Previous_Versions/Previous_Versions_Index.md
 
 # Quality Checklist
 
