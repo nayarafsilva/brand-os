@@ -15,156 +15,254 @@ Dependencies:
 • Brand_Philosophy.md
 • Brand_Positioning.md
 • Editorial_Principles.md
+• Voice_Communication_System.md
+• Vocabulary_Library.md
 • Knowledge_Boundaries.md
 
 ---
 
 # Purpose
 
-This document defines the step by step process for creating Brand OS aligned content. It ensures content is not generated from a prompt alone, but from the approved knowledge system.
+This document defines the process for creating Brand OS aligned writing. It covers customer emails, Slack messages, internal notes, LinkedIn posts, prompts, reviews, and repository content.
+
+It ensures writing is created from approved knowledge, not from a generic prompt.
 
 # How this document connects to the rest of the repository
 
-Creation_Workflow.md coordinates the Creation System files. It should be used before drafting posts, carousels, newsletters, profile copy, or other public content.
+Creation_Workflow.md coordinates the Foundation and Creation System files. It should be used before drafting, correcting, reviewing, or publishing any output that must sound like Nayara.
 
 # Core Principles
 
 • Knowledge comes before prompts.
-• Strategy comes before format.
-• Audience comes before hook.
+• Customer context comes before platform context.
+• Value comes before commercial points.
 • One idea comes before structure.
+• Format changes the writing mode.
+• Nayara's natural voice should be preserved.
+• Restricted wording must be removed before approval.
 • Review comes before approval.
-• The final output must serve the brand position.
 
 # Decision Framework
 
 Before creating, ask:
 
-1. What is the objective?
-2. Who is the reader?
-3. What is the one idea?
-4. What tension makes the idea worth reading?
-5. What evidence or experience can safely support it?
-6. What structure fits best?
-7. What CTA is appropriate?
-8. What review checks are required?
+1. What is the format?
+2. Is this a correction, rewrite, review, prompt, customer message, internal message, LinkedIn post, or repository file?
+3. Who is the reader?
+4. What is the one job of the output?
+5. What context should come first?
+6. What must be removed so it sounds more like Nayara?
+7. What next step should the reader take?
+8. Which review checks are required?
 
 # Detailed Rules
 
-Creation sequence:
+Universal creation sequence:
 
-1. Read relevant Foundation files.
-2. Define audience and objective.
-3. Select one idea.
-4. Choose content type.
-5. Draft hook.
-6. Select structure.
-7. Draft body.
-8. Add CTA only if useful.
-9. Check knowledge boundaries.
-10. Rewrite for voice.
-11. Run Creation Checklist.
-12. Send to Review System when available.
+1. Identify the format.
+2. Read the relevant Foundation files.
+3. Check Voice_Communication_System.md.
+4. Check Vocabulary_Library.md.
+5. Define audience and objective.
+6. Select one idea or one ask.
+7. Choose the right structure.
+8. Draft the output.
+9. Remove restricted wording.
+10. Check knowledge boundaries.
+11. Rewrite for Nayara's voice.
+12. Run Creation_Checklist.md.
+13. Send to Review System when approval is needed.
+
+Grammar check sequence:
+
+1. Preserve Nayara's wording where possible.
+2. Fix spelling, grammar, punctuation, flow, and tone.
+3. Do not explain the edit.
+4. Return only the corrected version.
+
+Review sequence:
+
+1. Diagnose before rewriting.
+2. Be direct.
+3. Name what is missing.
+4. Say what to change.
+5. Rewrite only after diagnosis if the user asks or the task requires it.
+
+Customer email sequence:
+
+1. Start with customer context.
+2. Say why it matters.
+3. Say what Nayara can do.
+4. Ask for one simple next step.
+5. End with progress.
+
+LinkedIn sequence:
+
+1. Choose one useful idea.
+2. Write a short hook.
+3. Add a re hook before the cut off.
+4. Add context.
+5. Break down the idea.
+6. Add a human observation.
+7. End with a simple CTA.
+
+Prompt creation sequence:
+
+1. Define role.
+2. Define task.
+3. Add source context.
+4. Add modes.
+5. Add correction rules.
+6. Add examples if useful.
+7. Remove contradictions.
+8. Keep it ready to paste.
 
 Rules:
 
 Do not start with templates.
 
-Do not start with hooks.
+Do not start with hooks before the idea is clear.
 
-Do not write before the strategic angle is clear.
+Do not write customer messages like outbound sales.
 
-Do not include unsupported claims.
+Do not over polish corrections.
 
-Do not make the employer the centre of the content.
+Do not explain edits unless asked.
+
+Do not include unverified claims, links, numbers, product details, or pricing.
+
+Do not use restricted wording.
 
 Edge cases:
 
-If the task asks for speed, still complete the sequence mentally.
+If the user asks for speed, run the workflow internally in compressed form.
 
-If the content uses a story, check Storytelling_System.md.
+If the user writes only check, return only the corrected text.
 
-If the content uses proof, check Knowledge_Boundaries.md.
+If the user asks for review, diagnose before rewriting.
 
-If the content feels generic, return to Brand_Positioning.md.
+If a message is sensitive, prioritise clarity and calmness.
+
+If the output is repository content, apply the full repository checklist.
 
 # Good Examples
 
 Good example:
 
-A post begins with the idea that AI readiness is a decision problem, then uses a reframe structure, then ends with a practical decision question.
+Task: check grammar.
+
+Correct process:
+
+Return only the corrected sentence.
 
 Why this works:
 
-It follows strategy, structure, and voice in order.
+It respects Nayara's correction preference.
 
 Good example:
 
-A carousel idea is rejected because it is really three ideas, not one.
+Task: customer follow up.
+
+Correct process:
+
+Bring the customer context back, make the next step easy, and avoid guilt.
 
 Why this works:
 
-It protects clarity.
+It matches Nayara's customer success voice.
+
+Good example:
+
+Task: LinkedIn post.
+
+Correct process:
+
+Use one idea, short lines, a clear hook, and a useful reader takeaway.
+
+Why this works:
+
+It builds authority without sounding like marketing.
 
 # Bad Examples
 
 Bad example:
 
-Write five posts about AI.
+Starting a customer email with a platform pitch.
 
 Why this fails:
 
-It starts with a broad topic instead of a strategic idea.
+It puts Pluralsight before the customer's situation.
 
 Bad example:
 
-Pick a viral hook and build a post around it.
+Rewriting a sentence so heavily that it no longer sounds like Nayara.
 
 Why this fails:
 
-It makes attention the strategy.
+It treats perfection as more important than voice.
+
+Bad example:
+
+Giving a long explanation after a grammar correction.
+
+Why this fails:
+
+It ignores Nayara's output rule.
 
 # Common Mistakes
 
-• Starting with format.
-• Writing before knowing the audience.
+• Starting with format instead of purpose.
+• Forgetting to identify the writing mode.
+• Writing before knowing the reader.
 • Choosing a hook before the idea.
 • Adding proof without checking boundaries.
 • Ending with a weak CTA.
-• Skipping revision.
+• Over polishing Nayara's voice.
+• Skipping restricted wording checks.
+• Adding commentary when only corrected text was requested.
 
 # Anti Patterns
 
 • Prompt led creation.
 • Viral hook first creation.
 • Template dependency.
+• Outbound sales voice.
 • Unsupported claims.
 • Product centred content.
 • Multi idea posts.
+• Overcorrected messages.
+• Generic AI language.
+• Explanation after simple corrections.
 
 # Cross References
 
+• Voice_Communication_System.md
 • Vocabulary_Library.md
+• Editorial_Principles.md
 • Hook_Library.md
 • Re_Hook_Library.md
 • Storytelling_System.md
 • Post_Structures.md
 • CTA_Library.md
 • Creation_Checklist.md
-• 03_REVIEW_SYSTEM/Review_Loop.md
+• Review_Loop.md
 
 # Quality Checklist
 
-• Creation sequence is clear.
-• Foundation dependency is explicit.
-• One idea rule is protected.
-• Knowledge boundaries are included.
-• Review handoff is clear.
+• Format identification is required.
+• Voice system check is required.
+• Restricted wording check is required.
+• Grammar check mode is defined.
+• Review mode is defined.
+• Customer email mode is defined.
+• LinkedIn mode is defined.
+• Prompt mode is defined.
 • Edge cases are inside Detailed Rules.
 • The document follows the mandatory template.
 
 # Future Improvements
 
-• Add workflow variants for carousel, newsletter, and profile copy.
-• Add a creation brief template.
-• Add performance feedback loops after content testing.
+• Add workflow variants for executive business reviews.
+• Add customer campaign asset workflow.
+• Add content creation briefs for LinkedIn and customer plans.
+• Add prompt templates for Claude and ChatGPT.
