@@ -120,6 +120,12 @@ Affected files: Voice_Communication_System.md, Vocabulary_Library.md, Editorial_
 Reason: Make Nayara's customer success voice, writing modes, correction rules, soft CTAs, low adoption framing, renewal framing, British English, restricted wording, and before after examples clear inside the Brand OS
 Status: Approved
 
+Date: LinkedIn content system revision
+Change: Added LinkedIn_Content_Cheat_Sheet.md and connected it to repository navigation, creation workflow, and content scoring
+Affected files: LinkedIn_Content_Cheat_Sheet.md, MASTER_INDEX.md, Creation_Workflow.md, Content_Scorecard.md, CHANGELOG.md
+Reason: Integrate Nayara's LinkedIn audience, positioning, content pillars, content mix, hook rules, post structure, evidence checks, and success test into the Brand OS
+Status: Approved
+
 Edge cases:
 
 Small typo fixes can be grouped.
@@ -203,13 +209,15 @@ Drafts do not enter repository version control.
 • START_HERE.md
 • NON_NEGOTIABLE_RULES.md
 • MASTER_INDEX.md
-• 01_FOUNDATION/Voice_Communication_System.md
-• 01_FOUNDATION/Editorial_Principles.md
-• 02_CREATION_SYSTEM/Vocabulary_Library.md
-• 02_CREATION_SYSTEM/CTA_Library.md
+• 01_FOUNDATION/Brand_Philosophy.md
+• 01_FOUNDATION/Brand_Positioning.md
 • 02_CREATION_SYSTEM/Creation_Workflow.md
-• 03_REVIEW_SYSTEM/Content_Scorecard.md
-• 04_EXAMPLES/Before_After_Rewrites.md
+• 02_CREATION_SYSTEM/Creation_Checklist.md
+• 02_CREATION_SYSTEM/LinkedIn_Content_Cheat_Sheet.md
+• 03_REVIEW_SYSTEM/Review_Loop.md
+• 03_REVIEW_SYSTEM/Approval_Checklist.md
+• 05_OUTPUTS/Templates/Template_Index.md
+• 05_OUTPUTS/Approved_Posts/Approved_Posts_Index.md
 • 99_ARCHIVE/Build_Notes.md
 
 # Quality Checklist
