@@ -39,6 +39,7 @@ MASTER_INDEX.md shows where everything lives.
 • Archive material never overrides approved material.
 • Folder names should make navigation obvious.
 • The repository must be easy for Claude, ChatGPT, and future tools to parse.
+• Major brand identity systems may operate as modular subsystems inside the repository.
 
 # Decision Framework
 
@@ -50,7 +51,8 @@ To decide where information belongs, ask:
 4. Is it about reviewing quality?
 5. Is it an example or pattern?
 6. Is it a reusable output?
-7. Is it historical material?
+7. Is it about visual identity or photographic representation?
+8. Is it historical material?
 
 The answer determines the folder.
 
@@ -147,6 +149,49 @@ Folders:
 • Carousels
 • Frameworks
 
+06_VISUAL_IDENTITY
+
+Purpose:
+
+Defines visual systems that represent Nayara consistently across photographs, illustrations, avatars, mascots, design assets, and future visual formats.
+
+Approved subsystem:
+
+Photography_OS
+
+Purpose:
+
+Defines how photographs of Nayara are created, reviewed, approved, stored, and reused for social media and other brand channels.
+
+Approved first step documents:
+
+• Photography_OS/START_HERE.md
+• Photography_OS/01_FOUNDATION/Photography_Philosophy.md
+• Photography_OS/01_FOUNDATION/Visual_DNA.md
+• Photography_OS/01_FOUNDATION/Non_Negotiable_Rules.md
+
+Planned Photography OS modules:
+
+• 02_IDENTITY
+• 03_WARDROBE
+• 04_STUDIO
+• 05_POSES
+• 06_SCENES
+• 07_APPROVED_PORTFOLIO
+• 08_REFERENCE_LIBRARY
+• 09_WORKFLOW
+• 10_ASSET_LIBRARY
+
+Rules:
+
+Photography OS is subordinate to the global Brand OS governance files.
+
+Photography OS inspiration material must never override Nayara's approved identity.
+
+Only approved photographs may enter the Approved Portfolio.
+
+Future visual subsystems must remain separate from Photography OS when their rules, assets, or review methods differ.
+
 99_ARCHIVE
 
 Purpose:
@@ -164,6 +209,10 @@ If a document seems to fit two folders, place it in the folder where it will be 
 If a topic becomes too large, create a dedicated document only after approval.
 
 If examples grow too large inside a file, move them to 04_EXAMPLES and cross reference them.
+
+If a visual asset is a finished approved output, store the asset in its approved subsystem or output location and record its relationship in the relevant index.
+
+If an image is external inspiration, do not store it as an approved representation of Nayara.
 
 # Good Examples
 
@@ -199,6 +248,22 @@ Why this works:
 
 It is a reusable asset, not a strategy document.
 
+Good example:
+
+Photography_Philosophy.md belongs in 06_VISUAL_IDENTITY/Photography_OS/01_FOUNDATION.
+
+Why this works:
+
+It converts the broader brand identity into permanent photographic principles without mixing image generation rules into the content creation system.
+
+Good example:
+
+An external studio pose reference belongs in Photography_OS/08_REFERENCE_LIBRARY, while the final approved Nayara photograph belongs in Photography_OS/07_APPROVED_PORTFOLIO.
+
+Why this works:
+
+It prevents inspiration from being mistaken for identity.
+
 # Bad Examples
 
 Bad example:
@@ -225,6 +290,14 @@ Why this fails:
 
 Old drafts belong in Archive.
 
+Bad example:
+
+Saving external model photographs inside the Photography OS Approved Portfolio.
+
+Why this fails:
+
+External references may guide pose or styling, but they do not represent Nayara's approved identity.
+
 # Common Mistakes
 
 • Treating the index as a content plan.
@@ -234,6 +307,8 @@ Old drafts belong in Archive.
 • Letting examples become scattered.
 • Forgetting that 99_ARCHIVE is historical, not active guidance.
 • Confusing current build sequence with final repository structure.
+• Treating visual inspiration as an approved brand asset.
+• Building a visual subsystem without its own entry point and conflict hierarchy.
 
 # Anti Patterns
 
@@ -244,6 +319,8 @@ Old drafts belong in Archive.
 • Mixing strategy, examples, and outputs in one place.
 • Creating a structure that future AI assistants cannot follow.
 • Saving files because they exist rather than because they are useful.
+• Mixing approved identity references with external inspiration.
+• Allowing a visual subsystem to contradict global Brand OS governance.
 
 # Cross References
 
@@ -253,6 +330,10 @@ Use these files together with this document:
 2. NON_NEGOTIABLE_RULES.md for approval standards.
 3. CHANGELOG.md for repository change history.
 4. 02_CREATION_SYSTEM/LinkedIn_Content_Cheat_Sheet.md for LinkedIn content execution.
+5. 06_VISUAL_IDENTITY/Photography_OS/START_HERE.md for photographic identity navigation.
+6. 06_VISUAL_IDENTITY/Photography_OS/01_FOUNDATION/Photography_Philosophy.md for photographic intent.
+7. 06_VISUAL_IDENTITY/Photography_OS/01_FOUNDATION/Visual_DNA.md for photographic character.
+8. 06_VISUAL_IDENTITY/Photography_OS/01_FOUNDATION/Non_Negotiable_Rules.md for permanent photographic boundaries.
 
 # Quality Checklist
 
@@ -266,8 +347,10 @@ Before adding or moving a file, confirm:
 6. The file is approved before being committed.
 7. The file has clear dependencies.
 8. The folder remains coherent after the file is added.
-9. The index does not need to change unless the architecture changes.
-10. The repository remains easy to navigate.
+9. The index changes when the architecture changes.
+10. Visual inspiration and approved identity assets remain separate.
+11. Subsystems remain subordinate to global repository governance.
+12. The repository remains easy to navigate.
 
 # Future Improvements
 
@@ -278,3 +361,5 @@ Future improvements may include:
 3. Adding folder level README files if needed.
 4. Adding maintenance rules for archived material.
 5. Adding a release checklist for Nayara Brand OS v1.0.
+6. Adding future Avatar OS and Mascot OS subsystems after their architecture is approved.
+7. Adding direct links between visual identity assets and approved content outputs.
