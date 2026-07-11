@@ -96,6 +96,12 @@ Affected files: Review_Loop.md, Content_Scorecard.md, Hallucination_Prevention.m
 Reason: Establish the approved review, scoring, hallucination prevention, structure validation, and approval gates for repository and public content quality
 Status: Approved
 
+Date: Initial build
+Change: Created 04_EXAMPLES folder
+Affected files: Hook_Examples.md, Story_Examples.md, CTA_Examples.md, Vocabulary_Examples.md, Before_After_Rewrites.md, Full_Post_Examples.md
+Reason: Establish approved example libraries that demonstrate how the Foundation, Creation System, and Review System should appear in practice
+Status: Approved
+
 Edge cases:
 
 Small typo fixes can be grouped.
@@ -185,6 +191,7 @@ Drafts do not enter repository version control.
 • 02_CREATION_SYSTEM/Creation_Checklist.md
 • 03_REVIEW_SYSTEM/Review_Loop.md
 • 03_REVIEW_SYSTEM/Approval_Checklist.md
+• 04_EXAMPLES/Full_Post_Examples.md
 • 99_ARCHIVE/Build_Notes.md
 
 # Quality Checklist
