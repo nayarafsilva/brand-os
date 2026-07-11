@@ -15,148 +15,189 @@ Dependencies:
 • Review_Loop.md
 • Brand_Positioning.md
 • Voice_Communication_System.md
+• Vocabulary_Library.md
 
 ---
 
 # Purpose
 
-This document defines how to score Brand OS content before approval. It turns subjective review into a clear quality standard so content is not approved just because it sounds good.
+This document defines how to score Brand OS writing before approval. It ensures that writing sounds like Nayara, follows the right format, avoids restricted wording, and protects customer trust.
 
 # How this document connects to the rest of the repository
 
-Content_Scorecard.md supports Review_Loop.md and Approval_Checklist.md. It should be used after content has been drafted and rewritten, but before it is approved for publication or repository use.
+Content_Scorecard.md supports Review_Loop.md and Approval_Checklist.md. It should be used after drafting and rewriting, but before approving public content, customer messages, internal notes, or repository files.
 
 # Core Principles
 
-• Scoring should protect quality, not create bureaucracy.
 • Strategy matters more than polish.
+• Nayara's natural voice matters more than perfect wording.
+• Customer context matters more than platform language.
+• Value matters more than commercial pressure.
 • Clarity matters more than cleverness.
-• Trust matters more than dramatic claims.
-• Content should be useful to the right reader.
-• A weak score requires revision, not justification.
+• Trust matters more than strong unsupported claims.
+• Restricted wording blocks approval.
 
 # Decision Framework
 
-Score content across these categories:
+Score writing across these categories:
 
-1. Strategic alignment.
-2. Audience relevance.
-3. Clarity.
-4. Voice fit.
+1. Voice fit.
+2. Format fit.
+3. Customer context.
+4. Clarity.
 5. Usefulness.
-6. Evidence safety.
-7. Structure.
-8. Distinctiveness.
+6. CTA fit.
+7. Evidence safety.
+8. Restricted wording.
+9. Strategic alignment.
+10. Mobile readability.
 
-A piece of content should not be approved if it fails strategic alignment, voice fit, or evidence safety.
+A piece of writing should not be approved if it fails voice fit, evidence safety, restricted wording, or customer context when customer context is required.
 
 # Detailed Rules
 
 Scoring categories:
 
-Strategic alignment:
+Voice fit:
 
-Does the content support Nayara's positioning around workforce capability, technology change, decision making, and business risk?
+Does it sound like Nayara: calm, direct, warm, practical, commercially aware, and human?
 
-Audience relevance:
+Format fit:
 
-Does the content speak to the pressure, fear, or decision reality of the intended reader?
+Does it follow the right mode for email, Slack, internal note, LinkedIn, prompt, review, grammar check, deck, or repository file?
+
+Customer context:
+
+Does it lead with the customer's situation before Pluralsight or the commercial point when customer facing?
 
 Clarity:
 
-Can the core idea be understood quickly?
-
-Voice fit:
-
-Does it sound like Nayara's brand rather than a vendor, influencer, or corporate account?
+Can the reader understand the point quickly?
 
 Usefulness:
 
-Does the reader leave with a sharper way to think, decide, or act?
+Does it help the reader understand, decide, act, or respond?
+
+CTA fit:
+
+Is there one clear next step, or is the CTA intentionally omitted?
 
 Evidence safety:
 
-Are claims supported, labelled, softened, or removed?
+Are facts, numbers, links, customer details, and claims supported, softened, or removed?
 
-Structure:
+Restricted wording:
 
-Does the format help the idea land?
+Does it avoid weak openers, restricted AI words, restricted transitions, dashes, and vendor language?
 
-Distinctiveness:
+Strategic alignment:
 
-Could this have been written by anyone, or does it carry Nayara's point of view?
+Does the output support Nayara's Brand OS positioning or the customer success objective?
 
-Rules:
+Mobile readability:
+
+Are paragraphs short and easy to scan?
+
+Scoring rules:
 
 Use a 1 to 10 judgement for each category.
 
 Anything below 8 requires revision.
 
-Anything below 7 in strategic alignment, voice fit, or evidence safety blocks approval.
+Anything below 7 in voice fit, evidence safety, restricted wording, or strategic alignment blocks approval.
 
-A total average above 9 is expected for approved Brand OS outputs.
+For customer facing work, anything below 7 in customer context blocks approval.
+
+For grammar checks, do not score length or structure heavily if the user asked for a light correction.
+
+For internal messages, prioritise action clarity over polish.
+
+For LinkedIn, prioritise one idea, hook strength, and useful reader takeaway.
 
 Edge cases:
 
-A tactical post can score lower on emotional depth if it is highly useful.
+A tactical message can score lower on distinctiveness if it is highly clear and useful.
 
-A personal post can score lower on commercial specificity if it clearly supports brand identity.
+A personal post can score lower on commercial specificity if it supports brand identity.
 
 A repository file must score strongly on structure and standard compliance.
+
+If restricted wording is present only to discuss the restricted list, it does not fail automatically.
 
 # Good Examples
 
 Good example:
 
-A post scores 9 on clarity, 9 on audience relevance, and 8 on voice fit. It is revised to make the voice warmer and more specific.
+A customer email scores 9 on clarity but 6 on customer context because it starts with the platform. It is revised to begin with the customer's situation.
 
 Why this works:
 
-The score identifies the exact improvement needed.
+The score identifies the real weakness.
 
 Good example:
 
-A post with a strong idea fails evidence safety because it includes an unsourced statistic. It is revised before approval.
+A low adoption message is rewritten because it sounds like failure rather than activation.
 
 Why this works:
 
-Trust is protected before publication.
+The score protects customer trust.
+
+Good example:
+
+A grammar correction is kept light because the original already sounds like Nayara.
+
+Why this works:
+
+The score protects her natural voice.
 
 # Bad Examples
 
 Bad example:
 
-Approving a post with a strong hook but weak evidence safety.
+Approving a polished email that starts with Pluralsight instead of the customer's context.
 
 Why this fails:
 
-Attention is prioritised over trust.
+Polish hides the wrong framing.
 
 Bad example:
 
-Approving content because it scores high overall while failing voice fit.
+Approving content with restricted AI wording because the point is useful.
 
 Why this fails:
 
-The average hides a critical brand problem.
+The wording weakens the voice.
+
+Bad example:
+
+Approving a follow up that says the customer has not replied.
+
+Why this fails:
+
+It creates guilt and pressure.
 
 # Common Mistakes
 
-• Treating the score as decoration.
-• Averaging away a serious failure.
-• Scoring polish higher than usefulness.
-• Ignoring evidence safety.
-• Letting a strong hook compensate for weak substance.
-• Approving content that is good but not on brand.
+• Scoring polish too highly.
+• Letting a strong idea compensate for weak voice.
+• Ignoring restricted wording.
+• Treating customer context as optional.
+• Treating low usage as failure.
+• Treating hours as value proof.
+• Approving broad CTAs.
+• Rewriting grammar checks too heavily.
 
 # Anti Patterns
 
 • Score inflation.
-• Approval despite blocker categories.
-• Polished generic content.
-• Useful but off brand content.
-• Distinctive but unsupported claims.
-• High engagement potential with low trust.
+• Approval despite weak voice.
+• Approval despite restricted wording.
+• Product first customer message.
+• Vendor sounding CTA.
+• Generic AI wording.
+• Polished but not Nayara.
+• Evidence unsafe claim.
+• Strong hook with weak substance.
 
 # Cross References
 
@@ -166,19 +207,24 @@ The average hides a critical brand problem.
 • Approval_Checklist.md
 • Brand_Positioning.md
 • Voice_Communication_System.md
+• Vocabulary_Library.md
 • Knowledge_Boundaries.md
+• Before_After_Rewrites.md
 
 # Quality Checklist
 
-• Scoring categories are clear.
-• Blocker categories are defined.
-• Revision threshold is clear.
+• Voice fit is a scoring category.
+• Format fit is a scoring category.
+• Customer context is a scoring category.
+• Restricted wording is a scoring category.
+• Evidence safety is a blocker category.
+• Customer facing work has customer context as a blocker category.
+• Grammar check and internal message exceptions are clear.
 • Edge cases are inside Detailed Rules.
-• The scorecard supports approval decisions.
 • The document follows the mandatory template.
 
 # Future Improvements
 
-• Add scoring examples after reviewing real posts.
-• Add separate scorecards for carousels and repository files.
-• Add minimum score standards for public content versus internal documents.
+• Add completed scoring examples for real customer messages.
+• Add separate scorecards for LinkedIn posts, emails, decks, and Slack messages.
+• Add a quick review scorecard for grammar checks.
