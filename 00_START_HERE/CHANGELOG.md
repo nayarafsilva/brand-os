@@ -126,6 +126,12 @@ Affected files: LinkedIn_Content_Cheat_Sheet.md, MASTER_INDEX.md, Creation_Workf
 Reason: Integrate Nayara's LinkedIn audience, positioning, content pillars, content mix, hook rules, post structure, evidence checks, and success test into the Brand OS
 Status: Approved
 
+Date: Photography OS foundation build
+Change: Created 06_VISUAL_IDENTITY and added the first approved Photography OS foundation
+Affected files: 06_VISUAL_IDENTITY/Photography_OS/START_HERE.md, 06_VISUAL_IDENTITY/Photography_OS/01_FOUNDATION/Photography_Philosophy.md, 06_VISUAL_IDENTITY/Photography_OS/01_FOUNDATION/Visual_DNA.md, 06_VISUAL_IDENTITY/Photography_OS/01_FOUNDATION/Non_Negotiable_Rules.md, 00_START_HERE/MASTER_INDEX.md, 00_START_HERE/CHANGELOG.md
+Reason: Establish a modular photographic identity system inside Nayara Brand OS that protects face accuracy, hair, wardrobe, gold accessories, authority, proximity, studio direction, approval logic, and future asset reuse for social media
+Status: Approved
+
 Edge cases:
 
 Small typo fixes can be grouped.
@@ -159,6 +165,14 @@ Change: Updated repository standards to make folders the atomic unit of approval
 Why this works:
 
 It records a structural rule change.
+
+Good entry:
+
+Change: Added the Photography OS foundation and updated the master index
+
+Why this works:
+
+It records both the new subsystem and the navigation change required to make it usable.
 
 # Bad Examples
 
@@ -194,6 +208,7 @@ Drafts do not enter repository version control.
 • Changing standards without updating this file.
 • Treating the changelog as optional.
 • Making entries too vague to be useful later.
+• Adding a new subsystem without recording the architecture change.
 
 # Anti Patterns
 
@@ -203,6 +218,7 @@ Drafts do not enter repository version control.
 • Changelog entries without affected files.
 • Changelog entries without reasons.
 • Recording work that was not approved.
+• Structural changes without a MASTER_INDEX.md update.
 
 # Cross References
 
@@ -218,6 +234,10 @@ Drafts do not enter repository version control.
 • 03_REVIEW_SYSTEM/Approval_Checklist.md
 • 05_OUTPUTS/Templates/Template_Index.md
 • 05_OUTPUTS/Approved_Posts/Approved_Posts_Index.md
+• 06_VISUAL_IDENTITY/Photography_OS/START_HERE.md
+• 06_VISUAL_IDENTITY/Photography_OS/01_FOUNDATION/Photography_Philosophy.md
+• 06_VISUAL_IDENTITY/Photography_OS/01_FOUNDATION/Visual_DNA.md
+• 06_VISUAL_IDENTITY/Photography_OS/01_FOUNDATION/Non_Negotiable_Rules.md
 • 99_ARCHIVE/Build_Notes.md
 
 # Quality Checklist
@@ -227,6 +247,9 @@ Drafts do not enter repository version control.
 • Drafts are excluded.
 • First release logic is clear.
 • Individual document version history is prohibited.
+• Structural changes are recorded.
+• Affected files are complete.
+• Reasons explain future relevance.
 • Future v1.0 release logic is clear.
 • The document follows the mandatory template.
 
@@ -235,3 +258,4 @@ Drafts do not enter repository version control.
 • Add dated entries once the first full Brand OS release is complete.
 • Add release notes for Nayara Brand OS v1.0.
 • Add versioning rules for v1.1 and beyond after the first stable release.
+• Add module release notes when Photography OS reaches its first complete approved state.
