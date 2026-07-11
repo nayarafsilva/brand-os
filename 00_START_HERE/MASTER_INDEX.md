@@ -77,7 +77,7 @@ Purpose:
 
 Defines the strategic foundation of Nayara's personal brand.
 
-Planned documents:
+Documents:
 
 • Brand_Philosophy.md
 • Brand_Positioning.md
@@ -93,7 +93,7 @@ Purpose:
 
 Defines how content is created.
 
-Planned documents:
+Documents:
 
 • Vocabulary_Library.md
 • Hook_Library.md
@@ -101,6 +101,7 @@ Planned documents:
 • Storytelling_System.md
 • Post_Structures.md
 • CTA_Library.md
+• LinkedIn_Content_Cheat_Sheet.md
 • Creation_Workflow.md
 • Creation_Checklist.md
 
@@ -110,7 +111,7 @@ Purpose:
 
 Defines how quality is reviewed, scored, and approved.
 
-Planned documents:
+Documents:
 
 • Review_Loop.md
 • Content_Scorecard.md
@@ -124,7 +125,7 @@ Purpose:
 
 Stores examples and pattern libraries.
 
-Planned documents:
+Documents:
 
 • Hook_Examples.md
 • Story_Examples.md
@@ -139,7 +140,7 @@ Purpose:
 
 Stores templates, reusable frameworks, and approved finished assets.
 
-Planned folders:
+Folders:
 
 • Templates
 • Approved_Posts
@@ -173,6 +174,14 @@ Audience psychology belongs in 01_FOUNDATION because it defines who Nayara is sp
 Why this works:
 
 Audience decisions shape all later content.
+
+Good example:
+
+LinkedIn_Content_Cheat_Sheet.md belongs in 02_CREATION_SYSTEM because it turns positioning, audience, pillars, structure, and proof rules into LinkedIn execution.
+
+Why this works:
+
+It gives LinkedIn content a detailed operating system without mixing examples into foundation documents.
 
 Good example:
 
@@ -218,45 +227,54 @@ Old drafts belong in Archive.
 
 # Common Mistakes
 
-• Treating folder order as importance order.
-• Adding examples into every file until documents become bloated.
-• Putting review guidance inside creation documents.
-• Saving finished assets inside strategic folders.
-• Leaving outdated material outside 99_ARCHIVE.
-• Letting documents overlap instead of cross referencing.
+• Treating the index as a content plan.
+• Adding files before deciding their role.
+• Creating overlapping folders.
+• Letting outputs contaminate strategy.
+• Letting examples become scattered.
+• Forgetting that 99_ARCHIVE is historical, not active guidance.
+• Confusing current build sequence with final repository structure.
 
 # Anti Patterns
 
-• Duplicate documents with similar purposes.
-• Hidden files outside the folder system.
-• Random folders created for convenience.
-• Strategy rules inside examples.
-• Review rules inside outputs.
-• Archive material treated as current.
-• Folder names that require explanation.
+• Folder sprawl.
+• Duplicate source of truth.
+• Unclear file ownership.
+• Temporary folders becoming permanent.
+• Mixing strategy, examples, and outputs in one place.
+• Creating a structure that future AI assistants cannot follow.
+• Saving files because they exist rather than because they are useful.
 
 # Cross References
 
-• START_HERE.md
-• NON_NEGOTIABLE_RULES.md
-• CHANGELOG.md
-• 01_FOUNDATION/Brand_Philosophy.md
-• 02_CREATION_SYSTEM/Creation_Workflow.md
-• 03_REVIEW_SYSTEM/Approval_Checklist.md
+Use these files together with this document:
+
+1. START_HERE.md for repository usage.
+2. NON_NEGOTIABLE_RULES.md for approval standards.
+3. CHANGELOG.md for repository change history.
+4. 02_CREATION_SYSTEM/LinkedIn_Content_Cheat_Sheet.md for LinkedIn content execution.
 
 # Quality Checklist
 
-• All active top level folders are listed.
-• Each folder has a clear purpose.
-• Planned documents are named consistently.
-• Folder responsibilities do not overlap.
-• Archive rules are clear.
-• Cross references are useful.
-• The index can guide a new AI session without prior context.
+Before adding or moving a file, confirm:
+
+1. The file has one primary purpose.
+2. The file belongs to the selected folder.
+3. The file does not duplicate another document.
+4. The file supports the approved repository structure.
+5. The file follows the mandatory Markdown template.
+6. The file is approved before being committed.
+7. The file has clear dependencies.
+8. The folder remains coherent after the file is added.
+9. The index does not need to change unless the architecture changes.
+10. The repository remains easy to navigate.
 
 # Future Improvements
 
-• Add links to documents once all files exist.
-• Add a repository status table after v1.0 is complete.
-• Add ownership notes if collaborators are added.
-• Add module level indexes if folders become large.
+Future improvements may include:
+
+1. Adding short descriptions for every document once all folders are populated.
+2. Adding a visual repository map.
+3. Adding folder level README files if needed.
+4. Adding maintenance rules for archived material.
+5. Adding a release checklist for Nayara Brand OS v1.0.
