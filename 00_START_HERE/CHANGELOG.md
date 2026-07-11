@@ -102,6 +102,12 @@ Affected files: Hook_Examples.md, Story_Examples.md, CTA_Examples.md, Vocabulary
 Reason: Establish approved example libraries that demonstrate how the Foundation, Creation System, and Review System should appear in practice
 Status: Approved
 
+Date: Initial build
+Change: Created 05_OUTPUTS folder
+Affected files: Templates/Template_Index.md, Approved_Posts/Approved_Posts_Index.md, Carousels/Carousel_Index.md, Frameworks/Framework_Index.md
+Reason: Establish approved output storage for reusable templates, finished posts, carousel assets, and frameworks while keeping drafts out of the repository
+Status: Approved
+
 Edge cases:
 
 Small typo fixes can be grouped.
@@ -191,7 +197,8 @@ Drafts do not enter repository version control.
 • 02_CREATION_SYSTEM/Creation_Checklist.md
 • 03_REVIEW_SYSTEM/Review_Loop.md
 • 03_REVIEW_SYSTEM/Approval_Checklist.md
-• 04_EXAMPLES/Full_Post_Examples.md
+• 05_OUTPUTS/Templates/Template_Index.md
+• 05_OUTPUTS/Approved_Posts/Approved_Posts_Index.md
 • 99_ARCHIVE/Build_Notes.md
 
 # Quality Checklist
