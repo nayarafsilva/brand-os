@@ -14,112 +14,183 @@ Dependencies:
 • MASTER_INDEX.md
 • Audience_Psychology.md
 • Voice_Communication_System.md
+• Vocabulary_Library.md
 
 ---
 
 # Purpose
 
-This document defines how Nayara should end content with clear, useful calls to action that invite the right response without sounding needy, generic, or engagement driven.
+This document defines how Nayara should end writing with clear, useful, low pressure next steps.
+
+It covers customer emails, follow ups, Slack messages, internal messages, LinkedIn posts, prompts, and review outputs.
 
 # How this document connects to the rest of the repository
 
-CTA_Library.md supports Post_Structures.md and Creation_Workflow.md. It should be used when finishing posts, carousels, newsletters, and discussion prompts.
+CTA_Library.md supports Voice_Communication_System.md, Editorial_Principles.md, Post_Structures.md, Creation_Workflow.md, and Content_Scorecard.md.
+
+It should be used whenever a piece of writing needs a next step, question, or close.
 
 # Core Principles
 
-• A CTA should continue the idea, not interrupt it.
-• The best CTA helps the reader reflect, decide, or respond with substance.
-• Avoid begging for engagement.
-• Avoid generic questions.
-• Match the CTA to the post type and audience maturity.
+• One CTA per email.
+• A CTA should reduce effort for the reader.
+• The next step should be easy to answer.
+• Do not beg for time.
+• Do not use guilt.
+• Do not make the commercial point the emotional centre.
+• Do not add a CTA if the ending is already strong.
+• Do not end with a vague request.
 
 # Decision Framework
 
 Before choosing a CTA, ask:
 
-1. What should the reader do after reading?
-2. Is the CTA reflective, conversational, practical, or commercial?
-3. Does it match the tone of the post?
-4. Would a senior reader feel respected by it?
-5. Does it avoid empty engagement bait?
+1. What does the reader need to do next?
+2. Can Nayara reduce the effort for them?
+3. Is the ask easy to answer?
+4. Is the tone low pressure?
+5. Is this customer facing, internal, public, or casual?
+6. Does the CTA match the message type?
+7. Does the CTA avoid restricted wording?
 
 # Detailed Rules
 
-Approved CTA types:
+Customer email CTAs:
 
-Reflective CTA:
+Use one clear ask.
 
-Invites the reader to think about their own situation.
+Keep it soft.
 
-Decision CTA:
+Make it easy to say yes, no, or redirect.
 
-Invites the reader to assess a risk or choice.
+Good patterns:
 
-Conversation CTA:
+• Would you have 15 minutes this week or next?
+• What are your thoughts?
+• Would you mind sharing that with me?
+• Does that match what you're seeing?
+• Would that be worth a quick chat?
+• Would it be useful if I pulled this into a simple plan?
+• Does this direction make sense?
 
-Invites thoughtful comments.
+Follow up CTAs:
 
-Practical CTA:
+Do not guilt the customer.
 
-Gives a question, checklist, or next step.
+Bring the context back.
 
-Soft commercial CTA:
+Make the next step easy.
 
-Signals relevance without pushing a product.
+Good patterns:
 
-Rules:
+• Worth a quick chat if this is still on your side?
+• Would it be useful if I pulled this into a simple reset plan?
+• Does the licence count still match your team's plan?
+• Would you have 15 minutes this week or next?
 
-Keep CTAs short.
+Internal CTAs:
 
-Avoid asking for comments too often.
+Be practical and specific.
 
-Do not use manipulative language.
+Good patterns:
 
-Do not add a CTA if the ending is already strong.
+• Can you confirm which number should stay?
+• Can you check this before the quote is updated?
+• Can you confirm if this should sit with Sales or CS?
+• I need the final number before this moves forward.
+
+LinkedIn CTAs:
+
+Use a useful question or reflective close.
+
+Avoid empty engagement prompts.
+
+Good patterns:
+
+• Where is this showing up in your team?
+• What would you check first?
+• Which capability gap is already slowing the work?
+• What would make this easier to explain internally?
+
+CTAs to avoid:
+
+• Let me know.
+• Thoughts?
+• Comment YES if you agree.
+• Book a demo today.
+• Are you ready to transform your team?
+• Shall we jump on a call?
+• Do you want to proceed?
+• Can you sign this today?
+
+Commercial CTA rules:
+
+Do not ask the customer to sign, approve, renew, or close unless Nayara explicitly asks for that specific message.
+
+For customer success, use value led next steps before commercial asks.
+
+The renewal should feel like the result of value, not pressure.
+
+Closing lines:
+
+Use progress based endings.
+
+Good endings:
+
+• Happy to help.
+• Chat soon.
+• Have a lovely week ahead.
+• Have a lovely weekend ahead.
+• I'll keep this moving from my side.
+• I'll share the next step once I've checked this.
+
+Avoid vague endings that add nothing.
 
 Edge cases:
 
-If the post is personal, use a reflective CTA.
+If the message already ends with a strong next step, do not add another CTA.
 
-If the post is tactical, use a practical CTA.
+If the topic is sensitive, use a calmer CTA.
 
-If the post is strategic, use a decision CTA.
+If the customer needs to do something complex, offer to simplify it from Nayara's side.
+
+If the message is internal and urgent, make the ask direct without sounding dramatic.
 
 # Good Examples
 
 Good example:
 
-Before investing in another AI workshop, ask which business decision you expect people to make better afterwards.
+Would it be useful if I pulled this into a simple reset plan?
 
 Why this works:
 
-It gives the reader a useful next step.
+It reduces effort for the customer and frames low adoption as a reset.
 
 Good example:
 
-Where is the capability gap already showing up in your delivery rhythm?
+Does that match what you're seeing?
 
 Why this works:
 
-It invites reflection without sounding generic.
+It invites the customer to add context without making them feel wrong.
 
 Good example:
 
-The question is not whether your teams need skills. It is which risks become smaller when those skills exist.
+Can you confirm which number should stay?
 
 Why this works:
 
-It ends with a decision lens.
+It is a clear internal ask.
 
 # Bad Examples
 
 Bad example:
 
-Thoughts?
+Let me know your thoughts.
 
 Why this fails:
 
-It is too generic.
+It is too broad and easy to ignore.
 
 Bad example:
 
@@ -131,48 +202,57 @@ It is engagement bait.
 
 Bad example:
 
-Book a demo today.
+Can you sign this today so we can close the renewal?
 
 Why this fails:
 
-It shifts the personal brand into product marketing.
+It makes the commercial point too blunt for Nayara's customer success voice.
 
 # Common Mistakes
 
-• Ending every post with a question.
-• Using lazy CTAs.
-• Asking for agreement instead of insight.
-• Making the CTA too sales led.
-• Adding a CTA that does not match the post.
+• Adding more than one CTA.
+• Ending with a broad ask.
+• Asking the customer to do heavy work.
+• Asking for agreement instead of useful context.
+• Adding a sales CTA to a value led message.
+• Ending with a CTA that repeats the obvious.
+• Using the same CTA in every message.
 
 # Anti Patterns
 
 • Engagement bait.
 • Forced comments.
 • Product push endings.
-• Generic questions.
-• Overly long CTAs.
-• CTAs that weaken a strong final line.
+• Renewal pressure.
+• Guilt based follow ups.
+• Lazy next steps.
+• Broad questions.
+• Multiple asks in one email.
 
 # Cross References
 
+• Voice_Communication_System.md
+• Vocabulary_Library.md
 • Post_Structures.md
 • Creation_Workflow.md
-• Voice_Communication_System.md
 • Audience_Psychology.md
-• 04_EXAMPLES/CTA_Examples.md
+• Before_After_Rewrites.md
+• CTA_Examples.md
 
 # Quality Checklist
 
-• CTA types are defined.
-• Good and bad examples are clear.
-• Engagement bait is rejected.
-• CTAs align with audience psychology.
+• Customer email CTAs are defined.
+• Follow up CTAs are defined.
+• Internal CTAs are defined.
+• LinkedIn CTAs are defined.
+• Commercial CTA limits are clear.
+• Closings are defined.
+• CTAs to avoid are included.
 • Edge cases are inside Detailed Rules.
-• The document follows the mandatory template.
+• No extra sections are present.
 
 # Future Improvements
 
-• Add CTA banks by post type.
-• Add CTA performance notes after testing.
-• Add commercial CTA rules if advisory or consulting offers are introduced.
+• Add CTA banks by customer scenario.
+• Add CTAs for executive business reviews.
+• Add CTAs for renewal risk, adoption reset, and champion enablement.
