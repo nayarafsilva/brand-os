@@ -29,6 +29,12 @@ It exists to create a consistent photographic identity that can support social m
 
 The system must protect Nayara's identity while allowing controlled changes to pose, expression, crop, scene, styling, and approved wardrobe.
 
+Its gosl is to ensure every generated image maintains a consistent appearance, visual language and brand identity, regardless of the AI model or generation platform used.
+
+This repository is model agnostic.
+
+It may be used with ChatGPT, Claude, Gemini, Midjourney, Flux, Imagen or future image generation systems.
+
 # How this document connects to the rest of the repository
 
 Photography OS is a subsystem of the Nayara Brand OS.
